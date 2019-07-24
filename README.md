@@ -1,5 +1,7 @@
 # 爬取豆瓣电影 Top250
 
+copy form https://github.com/go-crawler/douban-movie
+
 爬虫是标配了，第一个就从最最最简单的爬虫开始写起吧
 
 ## 目标
